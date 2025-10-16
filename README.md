@@ -25,8 +25,7 @@ This is a **clone of the LAZAREV digital product design agency website**, built 
 ![Work Section](https://github.com/DheerajPandey88/Digital-product/blob/02d99be312b4d8c348e8b377d484e22a6d40ff65/Screenshot%202025-10-17%20013633.png)
 
 ##  Project Structure
-## lazarev-clone/
- - │
+-  lazarev-clone/
  - ├── index.html       # Main HTML file
  - ├── style.css        # CSS for layout and styling
  - ├── script.js        # JavaScript for interactivity 
