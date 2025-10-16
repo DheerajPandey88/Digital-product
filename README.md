@@ -21,15 +21,22 @@ This is a **clone of the LAZAREV digital product design agency website**, built 
 ## 🖼️ Project Preview
 
 ### 🔹 Homepage
-![Homepage Preview](https://github.com/DheerajPandey88/Digital-product/blob/02d99be312b4d8c348e8b377d484e22a6d40ff65/Screenshot%202025-10-17%20013533.png)
-![Work Section](https://github.com/DheerajPandey88/Digital-product/blob/02d99be312b4d8c348e8b377d484e22a6d40ff65/Screenshot%202025-10-17%20013633.png)
+![Homepage Preview](https://github.com/DheerajPandey88/Digital-product/blob/02d99be312b4d8c348e8b377d484e22a6d40ff65/Screenshot%202025-10-17%20013533.png)  
 
-##  Project Structure
--  lazarev-clone/
- - ├── index.html       # Main HTML file
- - ├── style.css        # CSS for layout and styling
- - ├── script.js        # JavaScript for interactivity 
- - └── README.md        # Project description
+![Work Section](https://github.com/DheerajPandey88/Digital-product/blob/02d99be312b4d8c348e8b377d484e22a6d40ff65/Screenshot%202025-10-17%20013633.png)   
+
+## 📁 Project Structure
+
+---
+
+###  Folder Summary
+
+- **index.html** — The main landing page of the LAZAREV clone website.  
+- **style.css** — Controls layout, typography, transitions, and theme.  
+- **script.js** — Handles animations and UI interactions.  
+- **README.md** — Documentation for GitHub display.  
+
+---
 
 ## Contribution
 This project is for learning purposes and personal projects. Feel free to customize styles, animations, and components to enhance your own web development skills.
