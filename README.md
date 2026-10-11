@@ -15,7 +15,7 @@ This is a **clone of the LAZAREV digital product design agency website**, built 
 - **HTML** — for semantic structure and content.  
 - **CSS** — for styling, layouts, and animations.  
 - **JavaScript** — for interactivity and dynamic features.  
-- **VS Code** — recommended IDE for development.
+- **VS Code** — recommended IDE for development. 
 ---
 
 ## 🖼️ Project Preview
